@@ -1,0 +1,6 @@
+Z:\JALEAVER\Visual Studio 2012\Projects\AdventureSkeleton\AdventureSkeleton\bin\Debug\AdventureSkeleton.exe.config
+Z:\JALEAVER\Visual Studio 2012\Projects\AdventureSkeleton\AdventureSkeleton\bin\Debug\AdventureSkeleton.exe
+Z:\JALEAVER\Visual Studio 2012\Projects\AdventureSkeleton\AdventureSkeleton\bin\Debug\AdventureSkeleton.pdb
+Z:\JALEAVER\Visual Studio 2012\Projects\AdventureSkeleton\AdventureSkeleton\obj\Debug\AdventureSkeleton.csprojResolveAssemblyReference.cache
+Z:\JALEAVER\Visual Studio 2012\Projects\AdventureSkeleton\AdventureSkeleton\obj\Debug\AdventureSkeleton.exe
+Z:\JALEAVER\Visual Studio 2012\Projects\AdventureSkeleton\AdventureSkeleton\obj\Debug\AdventureSkeleton.pdb
